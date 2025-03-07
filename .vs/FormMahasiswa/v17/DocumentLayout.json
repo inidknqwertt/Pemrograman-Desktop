@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TUGAS SMT 4\\FormMahasiswa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40F3933B-356E-4E94-AD37-F6B705A7A67C}|FormMahasiswa\\FormMahasiswa.vbproj|d:\\tugas smt 4\\formmahasiswa\\formmahasiswa\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{40F3933B-356E-4E94-AD37-F6B705A7A67C}|FormMahasiswa\\FormMahasiswa.vbproj|solutionrelative:formmahasiswa\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\TUGAS SMT 4\\FormMahasiswa\\FormMahasiswa\\Form1.vb",
+              "RelativeDocumentMoniker": "FormMahasiswa\\Form1.vb",
+              "ToolTip": "D:\\TUGAS SMT 4\\FormMahasiswa\\FormMahasiswa\\Form1.vb [Design]",
+              "RelativeToolTip": "FormMahasiswa\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-07T06:43:51.713Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
