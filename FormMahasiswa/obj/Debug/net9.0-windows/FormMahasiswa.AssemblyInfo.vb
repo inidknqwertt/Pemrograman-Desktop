@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("FormMahasiswa"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+721df4348108f69b2f5daba2a4d3ac4af579832a"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("FormMahasiswa"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("FormMahasiswa"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

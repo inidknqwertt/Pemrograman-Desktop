@@ -1,0 +1,17 @@
+D:\TUGAS SMT 4\FormMahasiswa\FormMahasiswa\bin\Debug\net9.0-windows\FormMahasiswa.exe
+D:\TUGAS SMT 4\FormMahasiswa\FormMahasiswa\bin\Debug\net9.0-windows\FormMahasiswa.deps.json
+D:\TUGAS SMT 4\FormMahasiswa\FormMahasiswa\bin\Debug\net9.0-windows\FormMahasiswa.runtimeconfig.json
+D:\TUGAS SMT 4\FormMahasiswa\FormMahasiswa\bin\Debug\net9.0-windows\FormMahasiswa.dll
+D:\TUGAS SMT 4\FormMahasiswa\FormMahasiswa\bin\Debug\net9.0-windows\FormMahasiswa.pdb
+D:\TUGAS SMT 4\FormMahasiswa\FormMahasiswa\obj\Debug\net9.0-windows\FormMahasiswa.Form1.resources
+D:\TUGAS SMT 4\FormMahasiswa\FormMahasiswa\obj\Debug\net9.0-windows\FormMahasiswa.vbproj.GenerateResource.cache
+D:\TUGAS SMT 4\FormMahasiswa\FormMahasiswa\obj\Debug\net9.0-windows\FormMahasiswa.GeneratedMSBuildEditorConfig.editorconfig
+D:\TUGAS SMT 4\FormMahasiswa\FormMahasiswa\obj\Debug\net9.0-windows\FormMahasiswa.AssemblyInfoInputs.cache
+D:\TUGAS SMT 4\FormMahasiswa\FormMahasiswa\obj\Debug\net9.0-windows\FormMahasiswa.AssemblyInfo.vb
+D:\TUGAS SMT 4\FormMahasiswa\FormMahasiswa\obj\Debug\net9.0-windows\FormMahasiswa.vbproj.CoreCompileInputs.cache
+D:\TUGAS SMT 4\FormMahasiswa\FormMahasiswa\obj\Debug\net9.0-windows\FormMahasiswa.sourcelink.json
+D:\TUGAS SMT 4\FormMahasiswa\FormMahasiswa\obj\Debug\net9.0-windows\FormMahasiswa.dll
+D:\TUGAS SMT 4\FormMahasiswa\FormMahasiswa\obj\Debug\net9.0-windows\refint\FormMahasiswa.dll
+D:\TUGAS SMT 4\FormMahasiswa\FormMahasiswa\obj\Debug\net9.0-windows\FormMahasiswa.pdb
+D:\TUGAS SMT 4\FormMahasiswa\FormMahasiswa\obj\Debug\net9.0-windows\FormMahasiswa.genruntimeconfig.cache
+D:\TUGAS SMT 4\FormMahasiswa\FormMahasiswa\obj\Debug\net9.0-windows\ref\FormMahasiswa.dll
